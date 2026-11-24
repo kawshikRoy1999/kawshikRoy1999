@@ -1,72 +1,71 @@
 <div align="center">
 
-# Hi, I'm Kawshik Roy 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:6E56CF,100:00D4FF&text=Kawshik%20Roy&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=FULL-STACK%20DEVELOPER&descSize=16&descAlignY=65" width="100%" alt="Animated Kawshik Roy profile banner" />
 
-### Full-Stack Developer · .NET · Angular · TypeScript · Flutter
-
-I build practical, polished digital products with a focus on clean architecture,
-thoughtful user experiences, and maintainable code.
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=6E56CF&center=true&vCenter=true&width=600&lines=Building+thoughtful+digital+experiences;Working+with+.NET%2C+Angular%2C+TypeScript+%26+Flutter;Always+learning%2C+always+building" alt="Animated typing introduction" /></a>
 
 <p>
-  <a href="https://github.com/kawshikRoy1999"><img src="https://img.shields.io/badge/GitHub-kawshikRoy1999-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/kawshik-roy-23394a284"><img src="https://img.shields.io/badge/LinkedIn-Kawshik%20Roy-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:kaushikroy553@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/kawshikRoy1999"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="https://linkedin.com/in/kawshik-roy-23394a284"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
+  <a href="mailto:kaushikroy553@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kawshik" /></a>
 </p>
 
 </div>
 
-## About me
+---
 
-- I enjoy turning ideas into reliable, user-friendly applications.
-- I work across frontend, backend, databases, and mobile development.
-- I care about readable code, responsive interfaces, and continuous learning.
-- Based in **Kolkata, India**.
+## 👨‍💻 About me
 
-## Tech stack
+I'm a developer based in **Kolkata, India**, interested in building useful software across web, backend, and mobile. I enjoy taking an idea from a clean interface to a reliable implementation—and keep learning along the way.
 
-**Languages & frameworks**
+- 🧩 I work with **.NET, Angular, TypeScript, and Flutter**.
+- ✨ I value thoughtful UX, readable code, and maintainable solutions.
+- 🤝 Open to collaborating on interesting products and ideas.
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-**Tools & platforms**
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-## Featured projects
-
-| Project | What it is |
-| --- | --- |
-| [Kawshik Roy Portfolio](https://github.com/kawshikRoy1999/Kawshik-Roy-portfolio) | Personal portfolio with interactive UI and case studies |
-| [Sundarban](https://github.com/kawshikRoy1999/Sundarban) | TypeScript project exploring modern web application development |
-| [ECOLAND](https://github.com/kawshikRoy1999/ECOLAND) | TypeScript-based product experience |
-| [WizeOps](https://github.com/kawshikRoy1999/wizeops) | Dart-based RMS application |
-| [ContentForge AI](https://github.com/kawshikRoy1999/ContentForgeusingAI) | AI-focused content creation project |
-| [Hammer Three.js](https://github.com/kawshikRoy1999/Hammer_Threejs) | Interactive 3D web experiment with Three.js |
-
-## GitHub activity
+## 🛠️ Technologies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawshikRoy1999&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawshikRoy1999&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
+
+**Languages & frameworks**  
+<img src="https://skillicons.dev/icons?i=dotnet,angular,ts,js,dart,flutter" alt=".NET, Angular, TypeScript, JavaScript, Dart and Flutter" />
+
+**Tools & web**  
+<img src="https://skillicons.dev/icons?i=cs,html,css,git,github,vercel" alt="C sharp, HTML, CSS, Git, GitHub and Vercel" />
+
 </div>
 
-## Let's connect
+## 🚀 Selected projects
 
-I'm open to meaningful collaborations, interesting product ideas, and opportunities to build useful software.
+<table>
+  <tr>
+    <td width="50%"><strong><a href="https://github.com/kawshikRoy1999/Kawshik-Roy-portfolio">✦ Personal Portfolio</a></strong><br />Interactive portfolio and project case studies.</td>
+    <td width="50%"><strong><a href="https://github.com/kawshikRoy1999/Sundarban">✦ Sundarban</a></strong><br />A TypeScript project in my web development work.</td>
+  </tr>
+  <tr>
+    <td width="50%"><strong><a href="https://github.com/kawshikRoy1999/ECOLAND">✦ ECOLAND</a></strong><br />A TypeScript-based project.</td>
+    <td width="50%"><strong><a href="https://github.com/kawshikRoy1999/wizeops">✦ WizeOps</a></strong><br />A Dart application for RMS workflows.</td>
+  </tr>
+  <tr>
+    <td width="50%"><strong><a href="https://github.com/kawshikRoy1999/ContentForgeusingAI">✦ ContentForge AI</a></strong><br />An AI-focused content creation project.</td>
+    <td width="50%"><strong><a href="https://github.com/kawshikRoy1999/Hammer_Threejs">✦ Hammer Three.js</a></strong><br />A small interactive 3D experiment.</td>
+  </tr>
+</table>
+
+## 📊 GitHub at a glance
 
 <div align="center">
 
-**[LinkedIn](https://linkedin.com/in/kawshik-roy-23394a284) · [Email](mailto:kaushikroy553@gmail.com) · [Portfolio](https://github.com/kawshikRoy1999/Kawshik-Roy-portfolio)**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kawshikRoy1999&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawshikRoy1999&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+
+</div>
+
+## 🤝 Let's connect
+
+<div align="center">
+
+Have an interesting idea or want to collaborate? [Send me an email](mailto:kaushikroy553@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/kawshik-roy-23394a284).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6E56CF&height=100&section=footer" width="100%" alt="Decorative gradient wave" />
 
 </div>
